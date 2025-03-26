@@ -18,7 +18,7 @@ A sleek and user-friendly music player built using Tkinter, designed for a profe
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/music-player.git
+   git clone https://github.com/pawniityagii/music-player.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -35,12 +35,9 @@ A sleek and user-friendly music player built using Tkinter, designed for a profe
 
 ## Usage
 1. Open the application.
-2. Click on **Load Songs** to add music files to the playlist.
-3. Use the controls to play, pause, or stop the music.
+2. Click on **Load Songs** to add music files from your system to the playlist.
+3. Use the controls to play, pause, next, prev, or stop the music.
 4. Enjoy your personalized music experience!
-
-## Screenshots
-_(Add relevant screenshots here)_
 
 ## Future Enhancements
 - Add volume control and equalizer.
@@ -58,4 +55,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For any inquiries, reach out at [pawnii03@gmail.com](mailto:pawnii03@gmail.com).
 
 
-Star ⭐ this repo if you found it useful!_
+_Star ⭐ this repo if you found it useful!_
